@@ -1,0 +1,2 @@
+# MARKET-BASKET-ANALYSIS-using-R
+The goal of the project is to discover elements that occur frequently within a dataset consisting of multiple independent selections of elements and to discover rules. This mining approach can find rules which predict the occurrence of an item, based on the occurrences of other items in a particular transaction. Apriori algorithm is an influential algorithm designed to operate on data collections enclosing transactions such as in market basket analysis.
